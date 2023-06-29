@@ -1,0 +1,1000 @@
+Temperatura: 5970
+Nível da água: 3578
+Temperatura: 4711
+Nível da água: 3515
+Temperatura: 3562
+Nível da água: 3965
+Temperatura: 5425
+Nível da água: 3744
+Temperatura: 3096
+Nível da água: 4012
+Temperatura: 4321
+Nível da água: 3596
+Temperatura: 3742
+Nível da água: 4001
+Temperatura: 4165
+Nível da água: 3969
+Temperatura: 4925
+Nível da água: 3441
+Temperatura: 4285
+Nível da água: 10969
+Temperatura: 2982
+Nível da água: 3875
+Temperatura: 3792
+Nível da água: 3695
+Temperatura: 4132
+Nível da água: 2397
+Temperatura: 5620
+Nível da água: 5144
+Temperatura: 3668
+Nível da água: 2474
+Temperatura: 3798
+Nível da água: 4222
+Temperatura: 3756
+Nível da água: 3721
+Temperatura: 4484
+Nível da água: 6346
+Temperatura: 5780
+Nível da água: 5346
+Temperatura: 4396
+Nível da água: 3783
+Temperatura: 5656
+Nível da água: 5072
+Temperatura: 2666
+Nível da água: 3480
+Temperatura: 4715
+Nível da água: 5440
+Temperatura: 4585
+Nível da água: 2415
+Temperatura: 3670
+Nível da água: 4390
+Temperatura: 3780
+Nível da água: 3780
+Temperatura: 3098
+Nível da água: 2602
+Temperatura: 6539
+Nível da água: 4315
+Temperatura: 4919
+Nível da água: 3226
+Temperatura: 5353
+Nível da água: 5856
+Temperatura: 5054
+Nível da água: 4875
+Temperatura: 3078
+Nível da água: 3244
+Temperatura: 5765
+Nível da água: 4804
+Temperatura: 3675
+Nível da água: 3627
+Temperatura: 5650
+Nível da água: 3814
+Temperatura: 3698
+Nível da água: 2522
+Temperatura: 3593
+Nível da água: 6031
+Temperatura: 3826
+Nível da água: 5008
+Temperatura: 3664
+Nível da água: 2515
+Temperatura: 6325
+Nível da água: 3782
+Temperatura: 4980
+Nível da água: 2399
+Temperatura: 3652
+Nível da água: 6338
+Temperatura: 3750
+Nível da água: 2593
+Temperatura: 3084
+Nível da água: 4134
+Temperatura: 4905
+Nível da água: 4045
+Temperatura: 3769
+Nível da água: 5793
+Temperatura: 5068
+Nível da água: 4972
+Temperatura: 3131
+Nível da água: 2290
+Temperatura: 5517
+Nível da água: 3541
+Temperatura: 4905
+Nível da água: 2516
+Temperatura: 5542
+Nível da água: 3787
+Temperatura: 3621
+Nível da água: 5459
+Temperatura: 3908
+Nível da água: 4261
+Temperatura: 5759
+Nível da água: 4000
+Temperatura: 3858
+Nível da água: 4077
+Temperatura: 4437
+Nível da água: 3636
+Temperatura: 5202
+Nível da água: 2500
+Temperatura: 4700
+Nível da água: 5451
+Temperatura: 5213
+Nível da água: 4972
+Temperatura: 4223
+Nível da água: 3089
+Temperatura: 6001
+Nível da água: 5306
+Temperatura: 4352
+Nível da água: 3178
+Temperatura: 6003
+Nível da água: 3756
+Temperatura: 3726
+Nível da água: 3809
+Temperatura: 4331
+Nível da água: 3887
+Temperatura: 4011
+Nível da água: 4195
+Temperatura: 4273
+Nível da água: 2963
+Temperatura: 5884
+Nível da água: 3928
+Temperatura: 4252
+Nível da água: 4284
+Temperatura: 4917
+Nível da água: 4550
+Temperatura: 4954
+Nível da água: 2517
+Temperatura: 6113
+Nível da água: 6896
+Temperatura: 4970
+Nível da água: 2673
+Temperatura: 3053
+Nível da água: 4059
+Temperatura: 3856
+Nível da água: 2460
+Temperatura: 3774
+Nível da água: 3814
+Temperatura: 5384
+Nível da água: 3538
+Temperatura: 3771
+Nível da água: 2592
+Temperatura: 5415
+Nível da água: 4045
+Temperatura: 3989
+Nível da água: 5206
+Temperatura: 3743
+Nível da água: 4015
+Temperatura: 3669
+Nível da água: 3661
+Temperatura: 3097
+Nível da água: 2525
+Temperatura: 5559
+Nível da água: 4401
+Temperatura: 6097
+Nível da água: 3272
+Temperatura: 3734
+Nível da água: 3306
+Temperatura: 4112
+Nível da água: 3607
+Temperatura: 4586
+Nível da água: 4685
+Temperatura: 6276
+Nível da água: 4116
+Temperatura: 5838
+Nível da água: 2796
+Temperatura: 3628
+Nível da água: 3614
+Temperatura: 4846
+Nível da água: 2238
+Temperatura: 3735
+Nível da água: 3637
+Temperatura: 5435
+Nível da água: 3547
+Temperatura: 3616
+Nível da água: 2275
+Temperatura: 2398
+Nível da água: 2655
+Temperatura: 5818
+Nível da água: 4513
+Temperatura: 3868
+Nível da água: 3209
+Temperatura: 3687
+Nível da água: 5612
+Temperatura: 5328
+Nível da água: 4717
+Temperatura: 3707
+Nível da água: 5878
+Temperatura: 5395
+Nível da água: 2504
+Temperatura: 4443
+Nível da água: 4503
+Temperatura: 3579
+Nível da água: 2431
+Temperatura: 5112
+Nível da água: 5921
+Temperatura: 3633
+Nível da água: 4157
+Temperatura: 4278
+Nível da água: 3771
+Temperatura: 3945
+Nível da água: 3918
+Temperatura: 3824
+Nível da água: 2579
+Temperatura: 5265
+Nível da água: 4694
+Temperatura: 3671
+Nível da água: 2261
+Temperatura: 3696
+Nível da água: 3345
+Temperatura: 4815
+Nível da água: 3795
+Temperatura: 5782
+Nível da água: 2380
+Temperatura: 3845
+Nível da água: 5579
+Temperatura: 4513
+Nível da água: 2594
+Temperatura: 5569
+Nível da água: 4280
+Temperatura: 3646
+Nível da água: 3890
+Temperatura: 5242
+Nível da água: 3460
+Temperatura: 2660
+Nível da água: 3625
+Temperatura: 2834
+Nível da água: 2645
+Temperatura: 5282
+Nível da água: 4170
+Temperatura: 5066
+Nível da água: 3835
+Temperatura: 4172
+Nível da água: 5465
+Temperatura: 3566
+Nível da água: 5204
+Temperatura: 5222
+Nível da água: 2377
+Temperatura: 3951
+Nível da água: 4128
+Temperatura: 2612
+Nível da água: 2630
+Temperatura: 5128
+Nível da água: 3831
+Temperatura: 3717
+Nível da água: 2570
+Temperatura: 5124
+Nível da água: 4275
+Temperatura: 3495
+Nível da água: 5180
+Temperatura: 5142
+Nível da água: 2478
+Temperatura: 2774
+Nível da água: 5114
+Temperatura: 5487
+Nível da água: 3743
+Temperatura: 3644
+Nível da água: 4098
+Temperatura: 4825
+Nível da água: 2500
+Temperatura: 5131
+Nível da água: 4017
+Temperatura: 3705
+Nível da água: 2842
+Temperatura: 5287
+Nível da água: 4079
+Temperatura: 4033
+Nível da água: 3785
+Temperatura: 5686
+Nível da água: 2444
+Temperatura: 9516
+Nível da água: 4499
+Temperatura: 6485
+Nível da água: 2410
+Temperatura: 3977
+Nível da água: 3932
+Temperatura: 4344
+Nível da água: 2704
+Temperatura: 5099
+Nível da água: 3948
+Temperatura: 3718
+Nível da água: 2625
+Temperatura: 5527
+Nível da água: 4420
+Temperatura: 3750
+Nível da água: 4063
+Temperatura: 5919
+Nível da água: 2679
+Temperatura: 5671
+Nível da água: 3972
+Temperatura: 4759
+Nível da água: 2657
+Temperatura: 5462
+Nível da água: 3948
+Temperatura: 3706
+Nível da água: 2584
+Temperatura: 5633
+Nível da água: 4261
+Temperatura: 5111
+Nível da água: 2775
+Temperatura: 5349
+Nível da água: 3469
+Temperatura: 5333
+Nível da água: 3742
+Temperatura: 3681
+Nível da água: 2493
+Temperatura: 5209
+Nível da água: 3711
+Temperatura: 3929
+Nível da água: 2438
+Temperatura: 7135
+Nível da água: 2568
+Temperatura: 5038
+Nível da água: 4205
+Temperatura: 3586
+Nível da água: 3671
+Temperatura: 4956
+Nível da água: 4145
+Temperatura: 3750
+Nível da água: 3698
+Temperatura: 5372
+Nível da água: 3952
+Temperatura: 3805
+Nível da água: 3722
+Temperatura: 6001
+Nível da água: 2536
+Temperatura: 5545
+Nível da água: 4167
+Temperatura: 5470
+Nível da água: 3004
+Temperatura: 6304
+Nível da água: 6959
+Temperatura: 3817
+Nível da água: 2489
+Temperatura: 5464
+Nível da água: 2539
+Temperatura: 3835
+Nível da água: 4071
+Temperatura: 4288
+Nível da água: 2469
+Temperatura: 5311
+Nível da água: 3885
+Temperatura: 3859
+Nível da água: 2615
+Temperatura: 5558
+Nível da água: 4392
+Temperatura: 5097
+Nível da água: 3778
+Temperatura: 4699
+Nível da água: 2490
+Temperatura: 5900
+Nível da água: 4016
+Temperatura: 3936
+Nível da água: 2650
+Temperatura: 5268
+Nível da água: 5769
+Temperatura: 4921
+Nível da água: 2524
+Temperatura: 6581
+Nível da água: 2529
+Temperatura: 3631
+Nível da água: 4162
+Temperatura: 6223
+Nível da água: 2410
+Temperatura: 4396
+Nível da água: 3714
+Temperatura: 5736
+Nível da água: 2683
+Temperatura: 5440
+Nível da água: 4079
+Temperatura: 3720
+Nível da água: 2564
+Temperatura: 5528
+Nível da água: 3835
+Temperatura: 3994
+Nível da água: 3762
+Temperatura: 5588
+Nível da água: 2416
+Temperatura: 5038
+Nível da água: 3721
+Temperatura: 3805
+Nível da água: 2605
+Temperatura: 5227
+Nível da água: 3762
+Temperatura: 3821
+Nível da água: 3511
+Temperatura: 5572
+Nível da água: 3825
+Temperatura: 5210
+Nível da água: 4231
+Temperatura: 3962
+Nível da água: 3283
+Temperatura: 5987
+Nível da água: 5102
+Temperatura: 4310
+Nível da água: 4952
+Temperatura: 4799
+Nível da água: 6602
+Temperatura: 4366
+Nível da água: 4210
+Temperatura: 4318
+Nível da água: 3030
+Temperatura: 6359
+Nível da água: 6380
+Temperatura: 3129
+Nível da água: 3259
+Temperatura: 2748
+Nível da água: 7276
+Temperatura: 4241
+Nível da água: 4155
+Temperatura: 2765
+Nível da água: 4765
+Temperatura: 5786
+Nível da água: 4310
+Temperatura: 3884
+Nível da água: 2766
+Temperatura: 6385
+Nível da água: 4588
+Temperatura: 4911
+Nível da água: 4476
+Temperatura: 6428
+Nível da água: 5510
+Temperatura: 4187
+Nível da água: 3973
+Temperatura: 3959
+Nível da água: 2707
+Temperatura: 5754
+Nível da água: 4127
+Temperatura: 3959
+Nível da água: 2814
+Temperatura: 6165
+Nível da água: 4182
+Temperatura: 2716
+Nível da água: 2716
+Temperatura: 4265
+Nível da água: 3982
+Temperatura: 4100
+Nível da água: 2830
+Temperatura: 5940
+Nível da água: 4446
+Temperatura: 4426
+Nível da água: 2567
+Temperatura: 5092
+Nível da água: 4041
+Temperatura: 5387
+Nível da água: 3902
+Temperatura: 2946
+Nível da água: 5572
+Temperatura: 5519
+Nível da água: 2656
+Temperatura: 2731
+Nível da água: 8161
+Temperatura: 6816
+Nível da água: 5440
+Temperatura: 3748
+Nível da água: 3967
+Temperatura: 6284
+Nível da água: 4273
+Temperatura: 5364
+Nível da água: 2710
+Temperatura: 3956
+Nível da água: 5980
+Temperatura: 4019
+Nível da água: 3992
+Temperatura: 2688
+Nível da água: 3181
+Temperatura: 5892
+Nível da água: 4012
+Temperatura: 2638
+Nível da água: 3854
+Temperatura: 5884
+Nível da água: 4676
+Temperatura: 5892
+Nível da água: 2290
+Temperatura: 5219
+Nível da água: 4149
+Temperatura: 4412
+Nível da água: 2257
+Temperatura: 3423
+Nível da água: 2213
+Temperatura: 5292
+Nível da água: 5090
+Temperatura: 3550
+Nível da água: 5528
+Temperatura: 5575
+Nível da água: 3984
+Temperatura: 4189
+Nível da água: 2848
+Temperatura: 5537
+Nível da água: 4162
+Temperatura: 4086
+Nível da água: 2500
+Temperatura: 6387
+Nível da água: 4093
+Temperatura: 5356
+Nível da água: 3996
+Temperatura: 2805
+Nível da água: 3086
+Temperatura: 4490
+Nível da água: 4132
+Temperatura: 3318
+Nível da água: 3339
+Temperatura: 4272
+Nível da água: 4711
+Temperatura: 6190
+Nível da água: 4774
+Temperatura: 3225
+Nível da água: 6717
+Temperatura: 4697
+Nível da água: 5938
+Temperatura: 5004
+Nível da água: 5255
+Temperatura: 5960
+Nível da água: 4151
+Temperatura: 4018
+Nível da água: 3911
+Temperatura: 5199
+Nível da água: 4150
+Temperatura: 4319
+Nível da água: 2707
+Temperatura: 3987
+Nível da água: 3038
+Temperatura: 5566
+Nível da água: 5491
+Temperatura: 3840
+Nível da água: 7062
+Temperatura: 2958
+Nível da água: 4617
+Temperatura: 4456
+Nível da água: 3060
+Temperatura: 2836
+Nível da água: 2421
+Temperatura: 6105
+Nível da água: 5820
+Temperatura: 3917
+Nível da água: 4064
+Temperatura: 5834
+Nível da água: 4213
+Temperatura: 4191
+Nível da água: 2698
+Temperatura: 2769
+Nível da água: 4417
+Temperatura: 5639
+Nível da água: 4074
+Temperatura: 3958
+Nível da água: 5943
+Temperatura: 5555
+Nível da água: 4137
+Temperatura: 2062
+Nível da água: 4497
+Temperatura: 6249
+Nível da água: 7136
+Temperatura: 3127
+Nível da água: 7582
+Temperatura: 5814
+Nível da água: 5394
+Temperatura: 2841
+Nível da água: 3873
+Temperatura: 2793
+Nível da água: 4193
+Temperatura: 5468
+Nível da água: 2765
+Temperatura: 3123
+Nível da água: 4528
+Temperatura: 5821
+Nível da água: 2925
+Temperatura: 4092
+Nível da água: 2680
+Temperatura: 4381
+Nível da água: 5230
+Temperatura: 3870
+Nível da água: 5777
+Temperatura: 3948
+Nível da água: 5932
+Temperatura: 6003
+Nível da água: 2528
+Temperatura: 5890
+Nível da água: 4683
+Temperatura: 4284
+Nível da água: 3928
+Temperatura: 4192
+Nível da água: 2995
+Temperatura: 6039
+Nível da água: 6002
+Temperatura: 4631
+Nível da água: 3038
+Temperatura: 7751
+Nível da água: 4520
+Temperatura: 4318
+Nível da água: 2900
+Temperatura: 4797
+Nível da água: 6653
+Temperatura: 1878
+Nível da água: 2750
+Temperatura: 5916
+Nível da água: 4308
+Temperatura: 5530
+Nível da água: 3932
+Temperatura: 4232
+Nível da água: 6056
+Temperatura: 4280
+Nível da água: 5358
+Temperatura: 2581
+Nível da água: 2098
+Temperatura: 5887
+Nível da água: 4184
+Temperatura: 2952
+Nível da água: 1984
+Temperatura: 8074
+Nível da água: 6610
+Temperatura: 5261
+Nível da água: 3350
+Temperatura: 6909
+Nível da água: 3424
+Temperatura: 6439
+Nível da água: 4541
+Temperatura: 4038
+Nível da água: 4074
+Temperatura: 4804
+Nível da água: 5740
+Temperatura: 5549
+Nível da água: 3998
+Temperatura: 6066
+Nível da água: 6228
+Temperatura: 5849
+Nível da água: 2677
+Temperatura: 2857
+Nível da água: 4207
+Temperatura: 5335
+Nível da água: 4152
+Temperatura: 2825
+Nível da água: 3669
+Temperatura: 6459
+Nível da água: 4529
+Temperatura: 3124
+Nível da água: 2758
+Temperatura: 6045
+Nível da água: 4289
+Temperatura: 5606
+Nível da água: 2831
+Temperatura: 2835
+Nível da água: 4403
+Temperatura: 5549
+Nível da água: 4193
+Temperatura: 4282
+Nível da água: 5963
+Temperatura: 5527
+Nível da água: 5778
+Temperatura: 2991
+Nível da água: 4037
+Temperatura: 6012
+Nível da água: 5705
+Temperatura: 5593
+Nível da água: 4569
+Temperatura: 4173
+Nível da água: 3091
+Temperatura: 4703
+Nível da água: 4057
+Temperatura: 2907
+Nível da água: 5599
+Temperatura: 5563
+Nível da água: 4252
+Temperatura: 3832
+Nível da água: 3044
+Temperatura: 5970
+Nível da água: 5661
+Temperatura: 4427
+Nível da água: 2933
+Temperatura: 5455
+Nível da água: 5601
+Temperatura: 4250
+Nível da água: 2261
+Temperatura: 5413
+Nível da água: 4207
+Temperatura: 5872
+Nível da água: 2981
+Temperatura: 2972
+Nível da água: 3142
+Temperatura: 6453
+Nível da água: 4602
+Temperatura: 3153
+Nível da água: 4584
+Temperatura: 2687
+Nível da água: 6047
+Temperatura: 4259
+Nível da água: 2242
+Temperatura: 2933
+Nível da água: 4495
+Temperatura: 5461
+Nível da água: 4226
+Temperatura: 3962
+Nível da água: 6133
+Temperatura: 5882
+Nível da água: 4253
+Temperatura: 4467
+Nível da água: 3094
+Temperatura: 6297
+Nível da água: 4866
+Temperatura: 4167
+Nível da água: 3183
+Temperatura: 4928
+Nível da água: 7668
+Temperatura: 6939
+Nível da água: 5738
+Temperatura: 4098
+Nível da água: 2919
+Temperatura: 6431
+Nível da água: 4365
+Temperatura: 4123
+Nível da água: 3045
+Temperatura: 4787
+Nível da água: 4240
+Temperatura: 4884
+Nível da água: 3958
+Temperatura: 2880
+Nível da água: 2922
+Temperatura: 5805
+Nível da água: 5461
+Temperatura: 2946
+Nível da água: 4382
+Temperatura: 6170
+Nível da água: 5768
+Temperatura: 4248
+Nível da água: 5593
+Temperatura: 6494
+Nível da água: 4689
+Temperatura: 2933
+Nível da água: 4229
+Temperatura: 6268
+Nível da água: 4360
+Temperatura: 4358
+Nível da água: 2418
+Temperatura: 2871
+Nível da água: 6825
+Temperatura: 5765
+Nível da água: 5458
+Temperatura: 2814
+Nível da água: 4228
+Temperatura: 5866
+Nível da água: 4486
+Temperatura: 4325
+Nível da água: 4270
+Temperatura: 3899
+Nível da água: 2964
+Temperatura: 5591
+Nível da água: 4581
+Temperatura: 2197
+Nível da água: 1887
+Temperatura: 2221
+Nível da água: 11408
+Temperatura: 4776
+Nível da água: 4999
+Temperatura: 5178
+Nível da água: 8908
+Temperatura: 4851
+Nível da água: 4010
+Temperatura: 1895
+Nível da água: 1745
+Temperatura: 10557
+Nível da água: 4050
+Temperatura: 5151
+Nível da água: 1666
+Temperatura: 2690
+Nível da água: 6167
+Temperatura: 4020
+Nível da água: 4781
+Temperatura: 8911
+Nível da água: 1939
+Temperatura: 4995
+Nível da água: 9834
+Temperatura: 4737
+Nível da água: 3097
+Temperatura: 3567
+Nível da água: 3118
+Temperatura: 5481
+Nível da água: 4196
+Temperatura: 3070
+Nível da água: 2763
+Temperatura: 6153
+Nível da água: 6235
+Temperatura: 4194
+Nível da água: 2694
+Temperatura: 4850
+Nível da água: 5929
+Temperatura: 5713
+Nível da água: 3038
+Temperatura: 2875
+Nível da água: 2698
+Temperatura: 6465
+Nível da água: 4284
+Temperatura: 4192
+Nível da água: 2764
+Temperatura: 3890
+Nível da água: 4566
+Temperatura: 5486
+Nível da água: 4213
+Temperatura: 3016
+Nível da água: 4754
+Temperatura: 5992
+Nível da água: 4242
+Temperatura: 4523
+Nível da água: 3131
+Temperatura: 4765
+Nível da água: 4490
+Temperatura: 4504
+Nível da água: 4639
+Temperatura: 5829
+Nível da água: 4426
+Temperatura: 5464
+Nível da água: 2702
+Temperatura: 3897
+Nível da água: 4829
+Temperatura: 8010
+Nível da água: 2744
+Temperatura: 4093
+Nível da água: 4320
+Temperatura: 5542
+Nível da água: 4298
+Temperatura: 4148
+Nível da água: 2762
+Temperatura: 6190
+Nível da água: 4386
+Temperatura: 5429
+Nível da água: 2823
+Temperatura: 4061
+Nível da água: 3123
+Temperatura: 6008
+Nível da água: 4311
+Temperatura: 4001
+Nível da água: 3052
+Temperatura: 6194
+Nível da água: 6127
+Temperatura: 6160
+Nível da água: 3120
+Temperatura: 3717
+Nível da água: 2786
+Temperatura: 5683
+Nível da água: 7923
+Temperatura: 3848
+Nível da água: 2593
+Temperatura: 5910
+Nível da água: 4683
+Temperatura: 3873
+Nível da água: 2774
+Temperatura: 6051
+Nível da água: 4242
+Temperatura: 5455
+Nível da água: 2873
+Temperatura: 4582
+Nível da água: 5715
+Temperatura: 7187
+Nível da água: 2541
+Temperatura: 2579
+Nível da água: 6397
+Temperatura: 4352
+Nível da água: 3988
+Temperatura: 3988
+Nível da água: 2593
+Temperatura: 7406
+Nível da água: 4961
+Temperatura: 6072
+Nível da água: 2803
+Temperatura: 3696
+Nível da água: 4976
+Temperatura: 6706
+Nível da água: 4571
+Temperatura: 4148
+Nível da água: 2599
+Temperatura: 5757
+Nível da água: 4164
+Temperatura: 5481
+Nível da água: 2740
+Temperatura: 5036
+Nível da água: 4275
+Temperatura: 5734
+Nível da água: 2841
+Temperatura: 4317
+Nível da água: 2758
+Temperatura: 5753
+Nível da água: 4213
+Temperatura: 4318
+Nível da água: 2937
+Temperatura: 4770
+Nível da água: 4937
+Temperatura: 6279
+Nível da água: 3326
+Temperatura: 3921
+Nível da água: 5907
+Temperatura: 5665
+Nível da água: 2730
+Temperatura: 3817
+Nível da água: 2589
+Temperatura: 4414
+Nível da água: 4053
+Temperatura: 4030
+Nível da água: 6028
+Temperatura: 5836
+Nível da água: 5883
+Temperatura: 4410
+Nível da água: 2600
+Temperatura: 5750
+Nível da água: 4331
+Temperatura: 3929
+Nível da água: 2727
+Temperatura: 7255
+Nível da água: 4188
+Temperatura: 5501
+Nível da água: 2705
+Temperatura: 4157
+Nível da água: 4395
+Temperatura: 5855
+Nível da água: 3040
+Temperatura: 3852
+Nível da água: 3389
+Temperatura: 5563
+Nível da água: 4137
+Temperatura: 4338
+Nível da água: 2800
+Temperatura: 6329
+Nível da água: 4157
+Temperatura: 3885
+Nível da água: 2556
+Temperatura: 6106
+Nível da água: 4417
+Temperatura: 5449
+Nível da água: 2708
+Temperatura: 4062
+Nível da água: 2841
+Temperatura: 5520
+Nível da água: 4172
+Temperatura: 4172
+Nível da água: 2849
+Temperatura: 4790
+Nível da água: 4273
+Temperatura: 3801
+Nível da água: 2738
+Temperatura: 5445
+Nível da água: 4162
+Temperatura: 3946
+Nível da água: 2607
+Temperatura: 4703
+Nível da água: 4318
+Temperatura: 5358
+Nível da água: 2763
+Temperatura: 4247
+Nível da água: 3356
+Temperatura: 5594
+Nível da água: 4192
+Temperatura: 3943
+Nível da água: 2784
+Temperatura: 5774
+Nível da água: 4223
+Temperatura: 3174
+Nível da água: 2753
+Temperatura: 6272
+Nível da água: 4336
+Temperatura: 4248
+Nível da água: 2600
+Temperatura: 5841
+Nível da água: 4254
+Temperatura: 5636
+Nível da água: 2685
+Temperatura: 4165
+Nível da água: 3429
+Temperatura: 5760
+Nível da água: 4163
+Temperatura: 4099
+Nível da água: 2765
+Temperatura: 6126
+Nível da água: 4239
+Temperatura: 3797
+Nível da água: 2697
+Temperatura: 1891
+Nível da água: 4233
+Temperatura: 5460
+Nível da água: 2714
+Temperatura: 3911
+Nível da água: 4447
+Temperatura: 5625
+Nível da água: 4095
+Temperatura: 4089
+Nível da água: 2796
+Temperatura: 5695
+Nível da água: 4136
+Temperatura: 3179
+Nível da água: 2985

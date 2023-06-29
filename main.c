@@ -121,7 +121,7 @@ void thread_controle_temperatura(void)
 			sprintf(msg_enviada, "ani%lf", 0.0);
 			msg_socket(msg_enviada);
 
-			sprintf(msg_enviada, "anf%lf", 10.0);
+			sprintf(msg_enviada, "anf%lf", 0.0);
 			msg_socket(msg_enviada);
 
 			sprintf(msg_enviada, "ana%lf", na);
@@ -199,7 +199,7 @@ void thread_controle_nivel(void)
 			sprintf(msg_enviada, "ani%lf", 0.0);
 			msg_socket(msg_enviada);
 
-			sprintf(msg_enviada, "anf%lf", 2 * n);
+			sprintf(msg_enviada, "anf%lf", 100.0);
 			msg_socket(msg_enviada);
 
 			sprintf(msg_enviada, "ana%lf", 0.0);
@@ -209,13 +209,13 @@ void thread_controle_nivel(void)
 		if (ref_nivel > nivel)
 		{
 			n = (ref_nivel - nivel) * 200;
-			sprintf(msg_enviada, "ani%lf", 0.0);
+			sprintf(msg_enviada, "ani%lf", 10.0);
 			msg_socket(msg_enviada);
 
 			sprintf(msg_enviada, "anf%lf", 0.0);
 			msg_socket(msg_enviada);
 
-			sprintf(msg_enviada, "ana%lf", 2 * n);
+			sprintf(msg_enviada, "ana%lf", 30.0);
 			msg_socket(msg_enviada);
 		}
 
@@ -281,8 +281,9 @@ void thread_grava_nivel_tempo_resp(void)
 		int n = tamBuf();
 		int n2 = tamBuf2();
 		int tam = 0;
-		while (tam < n2 && tam < n)
-			fprintf(dados3_f, "Temperatura: %4ld\n", buf[tam++], "Nível da água: %4ld\n", buf2[tam++]);
+		while (tam < n2 && tam < n){
+			fprintf(dados3_f, "Temperatura: %4ld\n", buf[tam++]);
+			fprintf(dados3_f, "Nível da água: %4ld\n", buf2[tam++]);}
 		fflush(dados3_f);
 		aloca_tela();
 		printf("Gravando no arquivo 3...\n");
@@ -290,7 +291,7 @@ void thread_grava_nivel_tempo_resp(void)
 		libera_tela();
 	}
 
-	fclose(dados2_f);
+	fclose(dados3_f);
 }
 
 int main(int argc, char *argv[])

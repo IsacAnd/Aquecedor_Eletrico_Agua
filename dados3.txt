@@ -1,1000 +1,1000 @@
-Temperatura: 5970
-Nível da água: 3578
-Temperatura: 4711
-Nível da água: 3515
-Temperatura: 3562
-Nível da água: 3965
-Temperatura: 5425
-Nível da água: 3744
-Temperatura: 3096
-Nível da água: 4012
-Temperatura: 4321
-Nível da água: 3596
-Temperatura: 3742
-Nível da água: 4001
-Temperatura: 4165
-Nível da água: 3969
-Temperatura: 4925
-Nível da água: 3441
-Temperatura: 4285
-Nível da água: 10969
-Temperatura: 2982
-Nível da água: 3875
-Temperatura: 3792
-Nível da água: 3695
-Temperatura: 4132
-Nível da água: 2397
-Temperatura: 5620
-Nível da água: 5144
-Temperatura: 3668
-Nível da água: 2474
-Temperatura: 3798
-Nível da água: 4222
-Temperatura: 3756
-Nível da água: 3721
-Temperatura: 4484
-Nível da água: 6346
-Temperatura: 5780
-Nível da água: 5346
-Temperatura: 4396
-Nível da água: 3783
-Temperatura: 5656
-Nível da água: 5072
-Temperatura: 2666
-Nível da água: 3480
-Temperatura: 4715
-Nível da água: 5440
-Temperatura: 4585
-Nível da água: 2415
-Temperatura: 3670
-Nível da água: 4390
-Temperatura: 3780
-Nível da água: 3780
-Temperatura: 3098
-Nível da água: 2602
-Temperatura: 6539
-Nível da água: 4315
-Temperatura: 4919
-Nível da água: 3226
-Temperatura: 5353
-Nível da água: 5856
-Temperatura: 5054
-Nível da água: 4875
-Temperatura: 3078
-Nível da água: 3244
-Temperatura: 5765
-Nível da água: 4804
-Temperatura: 3675
-Nível da água: 3627
-Temperatura: 5650
-Nível da água: 3814
-Temperatura: 3698
-Nível da água: 2522
-Temperatura: 3593
-Nível da água: 6031
-Temperatura: 3826
-Nível da água: 5008
-Temperatura: 3664
-Nível da água: 2515
-Temperatura: 6325
-Nível da água: 3782
-Temperatura: 4980
-Nível da água: 2399
-Temperatura: 3652
-Nível da água: 6338
-Temperatura: 3750
-Nível da água: 2593
-Temperatura: 3084
-Nível da água: 4134
-Temperatura: 4905
-Nível da água: 4045
-Temperatura: 3769
-Nível da água: 5793
-Temperatura: 5068
-Nível da água: 4972
-Temperatura: 3131
-Nível da água: 2290
-Temperatura: 5517
-Nível da água: 3541
-Temperatura: 4905
-Nível da água: 2516
-Temperatura: 5542
-Nível da água: 3787
-Temperatura: 3621
-Nível da água: 5459
-Temperatura: 3908
-Nível da água: 4261
-Temperatura: 5759
-Nível da água: 4000
-Temperatura: 3858
-Nível da água: 4077
-Temperatura: 4437
-Nível da água: 3636
-Temperatura: 5202
-Nível da água: 2500
-Temperatura: 4700
-Nível da água: 5451
-Temperatura: 5213
-Nível da água: 4972
-Temperatura: 4223
-Nível da água: 3089
-Temperatura: 6001
-Nível da água: 5306
-Temperatura: 4352
-Nível da água: 3178
-Temperatura: 6003
-Nível da água: 3756
-Temperatura: 3726
-Nível da água: 3809
-Temperatura: 4331
-Nível da água: 3887
-Temperatura: 4011
-Nível da água: 4195
-Temperatura: 4273
-Nível da água: 2963
-Temperatura: 5884
-Nível da água: 3928
-Temperatura: 4252
-Nível da água: 4284
-Temperatura: 4917
-Nível da água: 4550
-Temperatura: 4954
-Nível da água: 2517
-Temperatura: 6113
-Nível da água: 6896
-Temperatura: 4970
-Nível da água: 2673
-Temperatura: 3053
-Nível da água: 4059
-Temperatura: 3856
-Nível da água: 2460
-Temperatura: 3774
-Nível da água: 3814
-Temperatura: 5384
-Nível da água: 3538
-Temperatura: 3771
-Nível da água: 2592
-Temperatura: 5415
-Nível da água: 4045
-Temperatura: 3989
-Nível da água: 5206
-Temperatura: 3743
-Nível da água: 4015
-Temperatura: 3669
-Nível da água: 3661
-Temperatura: 3097
-Nível da água: 2525
-Temperatura: 5559
-Nível da água: 4401
-Temperatura: 6097
-Nível da água: 3272
-Temperatura: 3734
-Nível da água: 3306
-Temperatura: 4112
-Nível da água: 3607
-Temperatura: 4586
-Nível da água: 4685
-Temperatura: 6276
-Nível da água: 4116
-Temperatura: 5838
-Nível da água: 2796
-Temperatura: 3628
-Nível da água: 3614
-Temperatura: 4846
-Nível da água: 2238
-Temperatura: 3735
-Nível da água: 3637
-Temperatura: 5435
-Nível da água: 3547
-Temperatura: 3616
-Nível da água: 2275
-Temperatura: 2398
-Nível da água: 2655
-Temperatura: 5818
-Nível da água: 4513
-Temperatura: 3868
-Nível da água: 3209
-Temperatura: 3687
-Nível da água: 5612
-Temperatura: 5328
-Nível da água: 4717
-Temperatura: 3707
-Nível da água: 5878
-Temperatura: 5395
-Nível da água: 2504
-Temperatura: 4443
-Nível da água: 4503
-Temperatura: 3579
-Nível da água: 2431
-Temperatura: 5112
-Nível da água: 5921
-Temperatura: 3633
-Nível da água: 4157
-Temperatura: 4278
-Nível da água: 3771
-Temperatura: 3945
-Nível da água: 3918
-Temperatura: 3824
-Nível da água: 2579
-Temperatura: 5265
-Nível da água: 4694
-Temperatura: 3671
-Nível da água: 2261
-Temperatura: 3696
-Nível da água: 3345
-Temperatura: 4815
-Nível da água: 3795
-Temperatura: 5782
-Nível da água: 2380
-Temperatura: 3845
-Nível da água: 5579
-Temperatura: 4513
-Nível da água: 2594
-Temperatura: 5569
-Nível da água: 4280
-Temperatura: 3646
-Nível da água: 3890
-Temperatura: 5242
-Nível da água: 3460
-Temperatura: 2660
-Nível da água: 3625
-Temperatura: 2834
-Nível da água: 2645
-Temperatura: 5282
-Nível da água: 4170
-Temperatura: 5066
-Nível da água: 3835
-Temperatura: 4172
-Nível da água: 5465
-Temperatura: 3566
-Nível da água: 5204
-Temperatura: 5222
-Nível da água: 2377
-Temperatura: 3951
-Nível da água: 4128
-Temperatura: 2612
-Nível da água: 2630
-Temperatura: 5128
-Nível da água: 3831
-Temperatura: 3717
-Nível da água: 2570
-Temperatura: 5124
-Nível da água: 4275
-Temperatura: 3495
-Nível da água: 5180
-Temperatura: 5142
-Nível da água: 2478
-Temperatura: 2774
-Nível da água: 5114
-Temperatura: 5487
-Nível da água: 3743
-Temperatura: 3644
-Nível da água: 4098
-Temperatura: 4825
-Nível da água: 2500
-Temperatura: 5131
-Nível da água: 4017
-Temperatura: 3705
-Nível da água: 2842
-Temperatura: 5287
-Nível da água: 4079
-Temperatura: 4033
-Nível da água: 3785
-Temperatura: 5686
-Nível da água: 2444
-Temperatura: 9516
-Nível da água: 4499
-Temperatura: 6485
-Nível da água: 2410
-Temperatura: 3977
-Nível da água: 3932
-Temperatura: 4344
-Nível da água: 2704
-Temperatura: 5099
-Nível da água: 3948
-Temperatura: 3718
-Nível da água: 2625
-Temperatura: 5527
-Nível da água: 4420
-Temperatura: 3750
-Nível da água: 4063
-Temperatura: 5919
-Nível da água: 2679
-Temperatura: 5671
-Nível da água: 3972
-Temperatura: 4759
-Nível da água: 2657
-Temperatura: 5462
-Nível da água: 3948
-Temperatura: 3706
-Nível da água: 2584
-Temperatura: 5633
-Nível da água: 4261
-Temperatura: 5111
-Nível da água: 2775
-Temperatura: 5349
-Nível da água: 3469
-Temperatura: 5333
-Nível da água: 3742
-Temperatura: 3681
-Nível da água: 2493
-Temperatura: 5209
-Nível da água: 3711
-Temperatura: 3929
-Nível da água: 2438
-Temperatura: 7135
-Nível da água: 2568
-Temperatura: 5038
-Nível da água: 4205
-Temperatura: 3586
-Nível da água: 3671
-Temperatura: 4956
-Nível da água: 4145
-Temperatura: 3750
-Nível da água: 3698
-Temperatura: 5372
-Nível da água: 3952
-Temperatura: 3805
-Nível da água: 3722
-Temperatura: 6001
-Nível da água: 2536
-Temperatura: 5545
-Nível da água: 4167
-Temperatura: 5470
-Nível da água: 3004
-Temperatura: 6304
-Nível da água: 6959
-Temperatura: 3817
-Nível da água: 2489
-Temperatura: 5464
-Nível da água: 2539
-Temperatura: 3835
-Nível da água: 4071
-Temperatura: 4288
-Nível da água: 2469
-Temperatura: 5311
-Nível da água: 3885
-Temperatura: 3859
-Nível da água: 2615
-Temperatura: 5558
-Nível da água: 4392
-Temperatura: 5097
-Nível da água: 3778
-Temperatura: 4699
-Nível da água: 2490
-Temperatura: 5900
-Nível da água: 4016
-Temperatura: 3936
-Nível da água: 2650
-Temperatura: 5268
-Nível da água: 5769
-Temperatura: 4921
-Nível da água: 2524
-Temperatura: 6581
-Nível da água: 2529
-Temperatura: 3631
-Nível da água: 4162
-Temperatura: 6223
-Nível da água: 2410
-Temperatura: 4396
-Nível da água: 3714
-Temperatura: 5736
-Nível da água: 2683
-Temperatura: 5440
-Nível da água: 4079
-Temperatura: 3720
-Nível da água: 2564
-Temperatura: 5528
-Nível da água: 3835
-Temperatura: 3994
-Nível da água: 3762
-Temperatura: 5588
-Nível da água: 2416
-Temperatura: 5038
-Nível da água: 3721
-Temperatura: 3805
-Nível da água: 2605
-Temperatura: 5227
-Nível da água: 3762
-Temperatura: 3821
-Nível da água: 3511
-Temperatura: 5572
-Nível da água: 3825
-Temperatura: 5210
-Nível da água: 4231
-Temperatura: 3962
-Nível da água: 3283
-Temperatura: 5987
-Nível da água: 5102
-Temperatura: 4310
-Nível da água: 4952
-Temperatura: 4799
-Nível da água: 6602
-Temperatura: 4366
-Nível da água: 4210
-Temperatura: 4318
-Nível da água: 3030
-Temperatura: 6359
-Nível da água: 6380
-Temperatura: 3129
-Nível da água: 3259
-Temperatura: 2748
-Nível da água: 7276
-Temperatura: 4241
-Nível da água: 4155
-Temperatura: 2765
-Nível da água: 4765
-Temperatura: 5786
-Nível da água: 4310
-Temperatura: 3884
-Nível da água: 2766
-Temperatura: 6385
-Nível da água: 4588
-Temperatura: 4911
-Nível da água: 4476
-Temperatura: 6428
-Nível da água: 5510
-Temperatura: 4187
-Nível da água: 3973
-Temperatura: 3959
-Nível da água: 2707
-Temperatura: 5754
-Nível da água: 4127
-Temperatura: 3959
-Nível da água: 2814
-Temperatura: 6165
-Nível da água: 4182
-Temperatura: 2716
-Nível da água: 2716
-Temperatura: 4265
-Nível da água: 3982
-Temperatura: 4100
-Nível da água: 2830
-Temperatura: 5940
-Nível da água: 4446
-Temperatura: 4426
-Nível da água: 2567
-Temperatura: 5092
-Nível da água: 4041
-Temperatura: 5387
-Nível da água: 3902
-Temperatura: 2946
-Nível da água: 5572
-Temperatura: 5519
-Nível da água: 2656
-Temperatura: 2731
-Nível da água: 8161
-Temperatura: 6816
-Nível da água: 5440
-Temperatura: 3748
-Nível da água: 3967
-Temperatura: 6284
-Nível da água: 4273
-Temperatura: 5364
-Nível da água: 2710
-Temperatura: 3956
-Nível da água: 5980
-Temperatura: 4019
-Nível da água: 3992
-Temperatura: 2688
-Nível da água: 3181
-Temperatura: 5892
-Nível da água: 4012
-Temperatura: 2638
-Nível da água: 3854
-Temperatura: 5884
-Nível da água: 4676
-Temperatura: 5892
-Nível da água: 2290
-Temperatura: 5219
-Nível da água: 4149
-Temperatura: 4412
-Nível da água: 2257
-Temperatura: 3423
-Nível da água: 2213
-Temperatura: 5292
-Nível da água: 5090
-Temperatura: 3550
-Nível da água: 5528
-Temperatura: 5575
-Nível da água: 3984
-Temperatura: 4189
-Nível da água: 2848
-Temperatura: 5537
-Nível da água: 4162
-Temperatura: 4086
-Nível da água: 2500
-Temperatura: 6387
-Nível da água: 4093
-Temperatura: 5356
-Nível da água: 3996
-Temperatura: 2805
-Nível da água: 3086
-Temperatura: 4490
-Nível da água: 4132
-Temperatura: 3318
-Nível da água: 3339
-Temperatura: 4272
-Nível da água: 4711
-Temperatura: 6190
-Nível da água: 4774
-Temperatura: 3225
-Nível da água: 6717
-Temperatura: 4697
-Nível da água: 5938
-Temperatura: 5004
-Nível da água: 5255
-Temperatura: 5960
-Nível da água: 4151
-Temperatura: 4018
-Nível da água: 3911
-Temperatura: 5199
-Nível da água: 4150
-Temperatura: 4319
-Nível da água: 2707
-Temperatura: 3987
-Nível da água: 3038
-Temperatura: 5566
-Nível da água: 5491
-Temperatura: 3840
-Nível da água: 7062
-Temperatura: 2958
-Nível da água: 4617
-Temperatura: 4456
-Nível da água: 3060
-Temperatura: 2836
-Nível da água: 2421
-Temperatura: 6105
-Nível da água: 5820
-Temperatura: 3917
-Nível da água: 4064
-Temperatura: 5834
-Nível da água: 4213
-Temperatura: 4191
-Nível da água: 2698
-Temperatura: 2769
-Nível da água: 4417
-Temperatura: 5639
-Nível da água: 4074
-Temperatura: 3958
-Nível da água: 5943
-Temperatura: 5555
-Nível da água: 4137
-Temperatura: 2062
-Nível da água: 4497
-Temperatura: 6249
-Nível da água: 7136
-Temperatura: 3127
-Nível da água: 7582
-Temperatura: 5814
-Nível da água: 5394
-Temperatura: 2841
-Nível da água: 3873
-Temperatura: 2793
-Nível da água: 4193
-Temperatura: 5468
-Nível da água: 2765
-Temperatura: 3123
-Nível da água: 4528
-Temperatura: 5821
-Nível da água: 2925
-Temperatura: 4092
-Nível da água: 2680
-Temperatura: 4381
-Nível da água: 5230
-Temperatura: 3870
-Nível da água: 5777
-Temperatura: 3948
-Nível da água: 5932
-Temperatura: 6003
-Nível da água: 2528
-Temperatura: 5890
-Nível da água: 4683
-Temperatura: 4284
-Nível da água: 3928
-Temperatura: 4192
-Nível da água: 2995
-Temperatura: 6039
-Nível da água: 6002
-Temperatura: 4631
-Nível da água: 3038
-Temperatura: 7751
-Nível da água: 4520
-Temperatura: 4318
-Nível da água: 2900
-Temperatura: 4797
-Nível da água: 6653
-Temperatura: 1878
-Nível da água: 2750
-Temperatura: 5916
-Nível da água: 4308
-Temperatura: 5530
-Nível da água: 3932
-Temperatura: 4232
-Nível da água: 6056
-Temperatura: 4280
-Nível da água: 5358
-Temperatura: 2581
-Nível da água: 2098
-Temperatura: 5887
-Nível da água: 4184
-Temperatura: 2952
-Nível da água: 1984
-Temperatura: 8074
-Nível da água: 6610
-Temperatura: 5261
-Nível da água: 3350
-Temperatura: 6909
-Nível da água: 3424
-Temperatura: 6439
-Nível da água: 4541
-Temperatura: 4038
-Nível da água: 4074
-Temperatura: 4804
-Nível da água: 5740
-Temperatura: 5549
-Nível da água: 3998
-Temperatura: 6066
-Nível da água: 6228
-Temperatura: 5849
-Nível da água: 2677
-Temperatura: 2857
-Nível da água: 4207
-Temperatura: 5335
-Nível da água: 4152
-Temperatura: 2825
-Nível da água: 3669
-Temperatura: 6459
-Nível da água: 4529
-Temperatura: 3124
-Nível da água: 2758
-Temperatura: 6045
-Nível da água: 4289
-Temperatura: 5606
-Nível da água: 2831
-Temperatura: 2835
-Nível da água: 4403
-Temperatura: 5549
-Nível da água: 4193
-Temperatura: 4282
-Nível da água: 5963
-Temperatura: 5527
-Nível da água: 5778
-Temperatura: 2991
-Nível da água: 4037
-Temperatura: 6012
-Nível da água: 5705
-Temperatura: 5593
-Nível da água: 4569
-Temperatura: 4173
-Nível da água: 3091
-Temperatura: 4703
-Nível da água: 4057
-Temperatura: 2907
-Nível da água: 5599
-Temperatura: 5563
-Nível da água: 4252
-Temperatura: 3832
-Nível da água: 3044
-Temperatura: 5970
-Nível da água: 5661
-Temperatura: 4427
-Nível da água: 2933
-Temperatura: 5455
-Nível da água: 5601
-Temperatura: 4250
-Nível da água: 2261
-Temperatura: 5413
-Nível da água: 4207
-Temperatura: 5872
-Nível da água: 2981
-Temperatura: 2972
-Nível da água: 3142
-Temperatura: 6453
-Nível da água: 4602
-Temperatura: 3153
-Nível da água: 4584
-Temperatura: 2687
-Nível da água: 6047
-Temperatura: 4259
-Nível da água: 2242
-Temperatura: 2933
-Nível da água: 4495
-Temperatura: 5461
-Nível da água: 4226
-Temperatura: 3962
-Nível da água: 6133
-Temperatura: 5882
-Nível da água: 4253
-Temperatura: 4467
-Nível da água: 3094
-Temperatura: 6297
-Nível da água: 4866
-Temperatura: 4167
-Nível da água: 3183
-Temperatura: 4928
-Nível da água: 7668
-Temperatura: 6939
-Nível da água: 5738
-Temperatura: 4098
-Nível da água: 2919
-Temperatura: 6431
-Nível da água: 4365
-Temperatura: 4123
-Nível da água: 3045
-Temperatura: 4787
-Nível da água: 4240
-Temperatura: 4884
-Nível da água: 3958
-Temperatura: 2880
-Nível da água: 2922
-Temperatura: 5805
-Nível da água: 5461
-Temperatura: 2946
-Nível da água: 4382
-Temperatura: 6170
-Nível da água: 5768
-Temperatura: 4248
-Nível da água: 5593
-Temperatura: 6494
-Nível da água: 4689
-Temperatura: 2933
-Nível da água: 4229
-Temperatura: 6268
-Nível da água: 4360
-Temperatura: 4358
-Nível da água: 2418
-Temperatura: 2871
-Nível da água: 6825
-Temperatura: 5765
-Nível da água: 5458
-Temperatura: 2814
-Nível da água: 4228
-Temperatura: 5866
-Nível da água: 4486
-Temperatura: 4325
-Nível da água: 4270
-Temperatura: 3899
-Nível da água: 2964
-Temperatura: 5591
-Nível da água: 4581
-Temperatura: 2197
-Nível da água: 1887
-Temperatura: 2221
-Nível da água: 11408
-Temperatura: 4776
-Nível da água: 4999
-Temperatura: 5178
-Nível da água: 8908
-Temperatura: 4851
-Nível da água: 4010
-Temperatura: 1895
-Nível da água: 1745
-Temperatura: 10557
-Nível da água: 4050
-Temperatura: 5151
-Nível da água: 1666
-Temperatura: 2690
-Nível da água: 6167
-Temperatura: 4020
-Nível da água: 4781
-Temperatura: 8911
-Nível da água: 1939
-Temperatura: 4995
-Nível da água: 9834
-Temperatura: 4737
-Nível da água: 3097
-Temperatura: 3567
-Nível da água: 3118
-Temperatura: 5481
-Nível da água: 4196
-Temperatura: 3070
-Nível da água: 2763
-Temperatura: 6153
-Nível da água: 6235
-Temperatura: 4194
-Nível da água: 2694
-Temperatura: 4850
-Nível da água: 5929
-Temperatura: 5713
-Nível da água: 3038
-Temperatura: 2875
-Nível da água: 2698
-Temperatura: 6465
-Nível da água: 4284
-Temperatura: 4192
-Nível da água: 2764
-Temperatura: 3890
-Nível da água: 4566
-Temperatura: 5486
-Nível da água: 4213
-Temperatura: 3016
-Nível da água: 4754
-Temperatura: 5992
-Nível da água: 4242
-Temperatura: 4523
-Nível da água: 3131
-Temperatura: 4765
-Nível da água: 4490
-Temperatura: 4504
-Nível da água: 4639
-Temperatura: 5829
-Nível da água: 4426
-Temperatura: 5464
-Nível da água: 2702
-Temperatura: 3897
-Nível da água: 4829
-Temperatura: 8010
-Nível da água: 2744
-Temperatura: 4093
-Nível da água: 4320
-Temperatura: 5542
-Nível da água: 4298
-Temperatura: 4148
-Nível da água: 2762
-Temperatura: 6190
-Nível da água: 4386
-Temperatura: 5429
-Nível da água: 2823
-Temperatura: 4061
-Nível da água: 3123
-Temperatura: 6008
-Nível da água: 4311
-Temperatura: 4001
-Nível da água: 3052
-Temperatura: 6194
-Nível da água: 6127
-Temperatura: 6160
-Nível da água: 3120
-Temperatura: 3717
-Nível da água: 2786
-Temperatura: 5683
-Nível da água: 7923
-Temperatura: 3848
-Nível da água: 2593
-Temperatura: 5910
-Nível da água: 4683
-Temperatura: 3873
-Nível da água: 2774
-Temperatura: 6051
-Nível da água: 4242
-Temperatura: 5455
-Nível da água: 2873
-Temperatura: 4582
-Nível da água: 5715
-Temperatura: 7187
-Nível da água: 2541
-Temperatura: 2579
-Nível da água: 6397
-Temperatura: 4352
-Nível da água: 3988
-Temperatura: 3988
-Nível da água: 2593
-Temperatura: 7406
-Nível da água: 4961
-Temperatura: 6072
-Nível da água: 2803
-Temperatura: 3696
-Nível da água: 4976
-Temperatura: 6706
-Nível da água: 4571
-Temperatura: 4148
-Nível da água: 2599
-Temperatura: 5757
-Nível da água: 4164
-Temperatura: 5481
-Nível da água: 2740
-Temperatura: 5036
-Nível da água: 4275
-Temperatura: 5734
-Nível da água: 2841
-Temperatura: 4317
-Nível da água: 2758
-Temperatura: 5753
-Nível da água: 4213
-Temperatura: 4318
-Nível da água: 2937
-Temperatura: 4770
-Nível da água: 4937
-Temperatura: 6279
-Nível da água: 3326
-Temperatura: 3921
-Nível da água: 5907
-Temperatura: 5665
-Nível da água: 2730
-Temperatura: 3817
-Nível da água: 2589
-Temperatura: 4414
-Nível da água: 4053
-Temperatura: 4030
-Nível da água: 6028
-Temperatura: 5836
-Nível da água: 5883
-Temperatura: 4410
-Nível da água: 2600
-Temperatura: 5750
-Nível da água: 4331
-Temperatura: 3929
-Nível da água: 2727
-Temperatura: 7255
-Nível da água: 4188
-Temperatura: 5501
-Nível da água: 2705
-Temperatura: 4157
-Nível da água: 4395
-Temperatura: 5855
-Nível da água: 3040
-Temperatura: 3852
-Nível da água: 3389
-Temperatura: 5563
-Nível da água: 4137
-Temperatura: 4338
-Nível da água: 2800
-Temperatura: 6329
-Nível da água: 4157
-Temperatura: 3885
-Nível da água: 2556
-Temperatura: 6106
-Nível da água: 4417
-Temperatura: 5449
-Nível da água: 2708
-Temperatura: 4062
-Nível da água: 2841
-Temperatura: 5520
-Nível da água: 4172
-Temperatura: 4172
-Nível da água: 2849
-Temperatura: 4790
-Nível da água: 4273
-Temperatura: 3801
-Nível da água: 2738
-Temperatura: 5445
-Nível da água: 4162
-Temperatura: 3946
-Nível da água: 2607
-Temperatura: 4703
-Nível da água: 4318
-Temperatura: 5358
-Nível da água: 2763
-Temperatura: 4247
-Nível da água: 3356
-Temperatura: 5594
-Nível da água: 4192
-Temperatura: 3943
-Nível da água: 2784
-Temperatura: 5774
-Nível da água: 4223
-Temperatura: 3174
-Nível da água: 2753
-Temperatura: 6272
-Nível da água: 4336
-Temperatura: 4248
-Nível da água: 2600
-Temperatura: 5841
-Nível da água: 4254
-Temperatura: 5636
-Nível da água: 2685
-Temperatura: 4165
-Nível da água: 3429
-Temperatura: 5760
-Nível da água: 4163
-Temperatura: 4099
-Nível da água: 2765
-Temperatura: 6126
-Nível da água: 4239
-Temperatura: 3797
-Nível da água: 2697
-Temperatura: 1891
-Nível da água: 4233
-Temperatura: 5460
-Nível da água: 2714
-Temperatura: 3911
-Nível da água: 4447
-Temperatura: 5625
-Nível da água: 4095
-Temperatura: 4089
-Nível da água: 2796
-Temperatura: 5695
-Nível da água: 4136
-Temperatura: 3179
-Nível da água: 2985
+28.007041
+2.298411
+28.009821
+2.297286
+28.012603
+2.297536
+28.018213
+2.297786
+28.023823
+2.296661
+28.026604
+2.294161
+28.026557
+2.293036
+28.029343
+2.293286
+28.034962
+2.293536
+28.040580
+2.292411
+28.043365
+2.291286
+28.046153
+2.290161
+28.048940
+2.289036
+28.051730
+2.289286
+28.057356
+2.289536
+28.062981
+2.289786
+28.068605
+2.290036
+28.074228
+2.290286
+28.079850
+2.290536
+28.085470
+2.290786
+28.091089
+2.291036
+28.096707
+2.289911
+28.099492
+2.288786
+28.102279
+2.289036
+28.107900
+2.289286
+28.113521
+2.288161
+28.116307
+2.287036
+28.119095
+2.287286
+28.124719
+2.286161
+28.127507
+2.285036
+28.130297
+2.285286
+28.135924
+2.284161
+28.138714
+2.281661
+28.138667
+2.280536
+28.141462
+2.280786
+28.147099
+2.279661
+28.149894
+2.278536
+28.152690
+2.277411
+28.155487
+2.276286
+28.158287
+2.275161
+28.161086
+2.274036
+28.163888
+2.272911
+28.166690
+2.270411
+28.166642
+2.269286
+28.169449
+2.269536
+28.175111
+2.269786
+28.180772
+2.268661
+28.183578
+2.267536
+28.186387
+2.267786
+28.192051
+2.268036
+28.197715
+2.268286
+28.203377
+2.268536
+28.209037
+2.267411
+28.211844
+2.266286
+28.214652
+2.266536
+28.220316
+2.265411
+28.223124
+2.264286
+28.225935
+2.263161
+28.228745
+2.262036
+28.231558
+2.262286
+28.237231
+2.262536
+28.242903
+2.262786
+28.248574
+2.261661
+28.251384
+2.260536
+28.254198
+2.260786
+28.259872
+2.259661
+28.262685
+2.258536
+28.265500
+2.258786
+28.271178
+2.259036
+28.276855
+2.259286
+28.282531
+2.259536
+28.288205
+2.258411
+28.291018
+2.257286
+28.293833
+2.257536
+28.299511
+2.257786
+28.305188
+2.258036
+28.310863
+2.258286
+28.316538
+2.257161
+28.319350
+2.256036
+28.322165
+2.256286
+28.327843
+2.256536
+28.333520
+2.256786
+28.339196
+2.257036
+28.344870
+2.257286
+28.350543
+2.257536
+28.356215
+2.256411
+28.359026
+2.255286
+28.361840
+2.255536
+28.367515
+2.255786
+28.373189
+2.256036
+28.378862
+2.256286
+28.384534
+2.256536
+28.390204
+2.256786
+28.395873
+2.257036
+28.401541
+2.257286
+28.407208
+2.257536
+28.412873
+2.257786
+28.418537
+2.258036
+28.424200
+2.258286
+28.429861
+2.258536
+28.435522
+2.258786
+28.441180
+2.257661
+28.443985
+2.256536
+28.446792
+2.256786
+28.452455
+2.257036
+28.458116
+2.257286
+28.463777
+2.257536
+28.469435
+2.257786
+28.475093
+2.258036
+28.480749
+2.256911
+28.483553
+2.255786
+28.486359
+2.256036
+28.492018
+2.256286
+28.497677
+2.256536
+28.503335
+2.256786
+28.508972
+2.257032
+28.514557
+2.257277
+28.520077
+2.257518
+28.525532
+2.257757
+28.530923
+2.257992
+28.536251
+2.258226
+28.541517
+2.258456
+28.546722
+2.258684
+28.551866
+2.258909
+28.556950
+2.259132
+28.561975
+2.257993
+28.564448
+2.256852
+28.566881
+2.257069
+28.571780
+2.255927
+28.574199
+2.253427
+28.574150
+2.252284
+28.576531
+2.252496
+28.581330
+2.251352
+28.583697
+2.250206
+28.586026
+2.250414
+28.590719
+2.250619
+28.595371
+2.250823
+28.599970
+2.251024
+28.604514
+2.251223
+28.609005
+2.250072
+28.611213
+2.248919
+28.613385
+2.249113
+28.617765
+2.247960
+28.619924
+2.245460
+28.619874
+2.244305
+28.622000
+2.244494
+28.626289
+2.243339
+28.628403
+2.242182
+28.630482
+2.242367
+28.634677
+2.242551
+28.638835
+2.242732
+28.642945
+2.241572
+28.644963
+2.239072
+28.644914
+2.237911
+28.646901
+2.236750
+28.648888
+2.235588
+28.650855
+2.235763
+28.654826
+2.234600
+28.656781
+2.233436
+28.658703
+2.233607
+28.662587
+2.232442
+28.664499
+2.231276
+28.666378
+2.231444
+28.670177
+2.231609
+28.673942
+2.230442
+28.675789
+2.227942
+28.675739
+2.226773
+28.677557
+2.226935
+28.681233
+2.227095
+28.684877
+2.225925
+28.686663
+2.224753
+28.688420
+2.224909
+28.691973
+2.225064
+28.695495
+2.225217
+28.698976
+2.225369
+28.702415
+2.224194
+28.704100
+2.223018
+28.705757
+2.223165
+28.709111
+2.223312
+28.712435
+2.223456
+28.715721
+2.222278
+28.717329
+2.221099
+28.718910
+2.221240
+28.722114
+2.221379
+28.725290
+2.221518
+28.728428
+2.221654
+28.731530
+2.221789
+28.734595
+2.221923
+28.737624
+2.222055
+28.740618
+2.222185
+28.743577
+2.221000
+28.745022
+2.218500
+28.744971
+2.217314
+28.746395
+2.217441
+28.749283
+2.217567
+28.752147
+2.217692
+28.754977
+2.217815
+28.757774
+2.217937
+28.760538
+2.218057
+28.763269
+2.218176
+28.765969
+2.218294
+28.768636
+2.217102
+28.769937
+2.215910
+28.771216
+2.216024
+28.773818
+2.216138
+28.776396
+2.216251
+28.778945
+2.216362
+28.781463
+2.215167
+28.782690
+2.213971
+28.783896
+2.214080
+28.786352
+2.214187
+28.788786
+2.212991
+28.789971
+2.211793
+28.791136
+2.211898
+28.793510
+2.210700
+28.794668
+2.208200
+28.794617
+2.207001
+28.795757
+2.205803
+28.796898
+2.203303
+28.796847
+2.202104
+28.797977
+2.202205
+28.800281
+2.201005
+28.801404
+2.199805
+28.802509
+2.199904
+28.804762
+2.198703
+28.805860
+2.197502
+28.806940
+2.197599
+28.809144
+2.197695
+28.811328
+2.197790
+28.813487
+2.197883
+28.815620
+2.197976
+28.817729
+2.196772
+28.818751
+2.195567
+28.819756
+2.195658
+28.821811
+2.195747
+28.823849
+2.194542
+28.824836
+2.192042
+28.824785
+2.190836
+28.825756
+2.190923
+28.827746
+2.191010
+28.829718
+2.191095
+28.831666
+2.189888
+28.832609
+2.187388
+28.832558
+2.186180
+28.833486
+2.186263
+28.835389
+2.186346
+28.837274
+2.186428
+28.839138
+2.185219
+28.840038
+2.184009
+28.840924
+2.184088
+28.842740
+2.184168
+28.844541
+2.184246
+28.846321
+2.183035
+28.847179
+2.181823
+28.848023
+2.180611
+28.848868
+2.179399
+28.849703
+2.179474
+28.851420
+2.179549
+28.853121
+2.179623
+28.854803
+2.179696
+28.856465
+2.178482
+28.857265
+2.177268
+28.858051
+2.176053
+28.858838
+2.173553
+28.858786
+2.172339
+28.859565
+2.172409
+28.861171
+2.172479
+28.862763
+2.172548
+28.864335
+2.172616
+28.865889
+2.172684
+28.867425
+2.172750
+28.868942
+2.171533
+28.869670
+2.169033
+28.869618
+2.167816
+28.870335
+2.167881
+28.871816
+2.167945
+28.873284
+2.168009
+28.874735
+2.166791
+28.875430
+2.165572
+28.876113
+2.165634
+28.877528
+2.165696
+28.878929
+2.165757
+28.880315
+2.165817
+28.881683
+2.165876
+28.883035
+2.165935
+28.884372
+2.164714
+28.885010
+2.163493
+28.885637
+2.163550
+28.886939
+2.163607
+28.888230
+2.163664
+28.889506
+2.163719
+28.890766
+2.163774
+28.892012
+2.163828
+28.893242
+2.163882
+28.894458
+2.163935
+28.895659
+2.162711
+28.896230
+2.161487
+28.896791
+2.161539
+28.897963
+2.160315
+28.898520
+2.159090
+28.899068
+2.159141
+28.900214
+2.159191
+28.901349
+2.157966
+28.901887
+2.156741
+28.902416
+2.156789
+28.903523
+2.156838
+28.904620
+2.156886
+28.905704
+2.156933
+28.906775
+2.156980
+28.907833
+2.157027
+28.908878
+2.155800
+28.909372
+2.154572
+28.909856
+2.153345
+28.910341
+2.152117
+28.910821
+2.152162
+28.911830
+2.152206
+28.912830
+2.152250
+28.913818
+2.152294
+28.914794
+2.152336
+28.915758
+2.152379
+28.916711
+2.152421
+28.917653
+2.151192
+28.918094
+2.148692
+28.918042
+2.147462
+28.918477
+2.147503
+28.919396
+2.146273
+28.919828
+2.145043
+28.920253
+2.145083
+28.921152
+2.145123
+28.922044
+2.145162
+28.922924
+2.143932
+28.923336
+2.141432
+28.923283
+2.140201
+28.923688
+2.140239
+28.924548
+2.140277
+28.925401
+2.139046
+28.925798
+2.137814
+28.926188
+2.137851
+28.927019
+2.137888
+28.927843
+2.137924
+28.928657
+2.137960
+28.929461
+2.137996
+28.930255
+2.136763
+28.930624
+2.135531
+28.930986
+2.135565
+28.931760
+2.134333
+28.932120
+2.133100
+28.932473
+2.133133
+28.933230
+2.133167
+28.933981
+2.131934
+28.934328
+2.130700
+28.934668
+2.130733
+28.935400
+2.129499
+28.935738
+2.128265
+28.936070
+2.128297
+28.936786
+2.128329
+28.937496
+2.128361
+28.938197
+2.128392
+28.938889
+2.128422
+28.939573
+2.128453
+28.940249
+2.128483
+28.940916
+2.127248
+28.941221
+2.124748
+28.941168
+2.123512
+28.941469
+2.123542
+28.942121
+2.123571
+28.942767
+2.122335
+28.943062
+2.119835
+28.943008
+2.118600
+28.943298
+2.118628
+28.943930
+2.118656
+28.944556
+2.117420
+28.944840
+2.116184
+28.945120
+2.116211
+28.945730
+2.116239
+28.946335
+2.116266
+28.946932
+2.115029
+28.947202
+2.113792
+28.947467
+2.113819
+28.948050
+2.113845
+28.948627
+2.112608
+28.948887
+2.111371
+28.949143
+2.110133
+28.949398
+2.107633
+28.949344
+2.106396
+28.949597
+2.106421
+28.950156
+2.106446
+28.950710
+2.105209
+28.950958
+2.103971
+28.951202
+2.103996
+28.951741
+2.102758
+28.951983
+2.101520
+28.952221
+2.100282
+28.952459
+2.099044
+28.952694
+2.099067
+28.953217
+2.099091
+28.953735
+2.099114
+28.954246
+2.099137
+28.954752
+2.099160
+28.955251
+2.099182
+28.955744
+2.099205
+28.956231
+2.099227
+28.956713
+2.099248
+28.957188
+2.098009
+28.957397
+2.096770
+28.957602
+2.096791
+28.958065
+2.095552
+28.958269
+2.094312
+28.958470
+2.093073
+28.958670
+2.091833
+28.958868
+2.091854
+28.959317
+2.090614
+28.959513
+2.089374
+28.959706
+2.088134
+28.959899
+2.085634
+28.959845
+2.084394
+28.960037
+2.083154
+28.960228
+2.081914
+28.960417
+2.081934
+28.960849
+2.081954
+28.961278
+2.080713
+28.961463
+2.079473
+28.961645
+2.079492
+28.962062
+2.079511
+28.962476
+2.079530
+28.962885
+2.079549
+28.963288
+2.079567
+28.963686
+2.079586
+28.964080
+2.079604
+28.964469
+2.079621
+28.964853
+2.078380
+28.965016
+2.077139
+28.965176
+2.075898
+28.965337
+2.074657
+28.965495
+2.074674
+28.965866
+2.074691
+28.966234
+2.073450
+28.966389
+2.072208
+28.966541
+2.072225
+28.966899
+2.072241
+28.967254
+2.072258
+28.967605
+2.072274
+28.967952
+2.072290
+28.968294
+2.072306
+28.968631
+2.072322
+28.968965
+2.072337
+28.969294
+2.071095
+28.969431
+2.069853
+28.969565
+2.069868
+28.969886
+2.069883
+28.970204
+2.069898
+28.970519
+2.069913
+28.970829
+2.069928
+28.971136
+2.069942
+28.971439
+2.069957
+28.971738
+2.069971
+28.972033
+2.069985
+28.972325
+2.069999
+28.972613
+2.070013
+28.972898
+2.070026
+28.973179
+2.070040
+28.973457
+2.070053
+28.973731
+2.068810
+28.973839
+2.067566
+28.973946
+2.067579
+28.974213
+2.067592
+28.974478
+2.067605
+28.974740
+2.066361
+28.974843
+2.065118
+28.974943
+2.065130
+28.975198
+2.065143
+28.975452
+2.065155
+28.975701
+2.065167
+28.975948
+2.065179
+28.976192
+2.065191
+28.976433
+2.065203
+28.976670
+2.065215
+28.976905
+2.065226
+28.977137
+2.065238
+28.977366
+2.065249
+28.977592
+2.065261
+28.977815
+2.065272
+28.978036
+2.065283
+28.978254
+2.064038
+28.978334
+2.062794
+28.978413
+2.062804
+28.978626
+2.062815
+28.978837
+2.061571
+28.978914
+2.060326
+28.978989
+2.060336
+28.979195
+2.060347
+28.979399
+2.060347
+28.979600
+2.059112
+28.979672
+2.057867
+28.979743
+2.056622
+28.979814
+2.055378
+28.979884
+2.055388
+28.980079
+2.054143
+28.980149
+2.052898
+28.980217
+2.051653

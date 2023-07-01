@@ -7,16 +7,16 @@
 #include "socket.h"
 #include "sensores.h"
 #include "tela.h"
-#include "bufduplo.h"
-#include "referenciaT.h"
+#include "bufduplo.h" // buffer do tempo de resposta da temperatura
+#include "bufduplo2.h" // buffer do tempo de resposta do nivel de agua
+#include "bufduplo3.h" // buffer que guarda a temperatura
+#include "bufduplo4.h"
+#include "referenciaT.h" 
 #include "referenciaH.h"
-#include "bufduplo2.h"
 
 #define NSEC_PER_SEC (1000000000) // Numero de nanosegundos em um segundo
 
 #define N_AMOSTRAS 1000
-
-long teste;
 
 void thread_mostra_status(void)
 {
@@ -31,7 +31,6 @@ void thread_mostra_status(void)
 		printf("Temperatura (T)--> %.2lf\n", t);
 		printf("Nivel       (H)--> %.2lf\n", h);
 		printf("---------------------------------------\n");
-		printf("atraso_fim: %ld\n", teste);
 		libera_tela();
 		sleep(1);
 		//
@@ -75,7 +74,6 @@ void thread_alarme(void)
 	}
 }
 
-/// Controle
 void thread_controle_temperatura(void)
 {
 	char msg_enviada[1000];
@@ -134,6 +132,7 @@ void thread_controle_temperatura(void)
 		// Calcula o tempo de resposta observado em microsegundos
 		atraso_fim = 1000000 * (t_fim.tv_sec - t.tv_sec) + (t_fim.tv_nsec - t.tv_nsec) / 1000;
 		bufduplo_insereLeitura(atraso_fim);
+		bufduplo3_insereLeitura(temp);
 
 		// Calcula inicio do proximo periodo
 		t.tv_nsec += periodo;
@@ -226,6 +225,7 @@ void thread_controle_nivel(void)
 		atraso_fim = 1000000 * (t_fim.tv_sec - t.tv_sec) + (t_fim.tv_nsec - t.tv_nsec) / 1000;
 		// teste = atraso_fim;
 		bufduplo2_insereLeitura(atraso_fim);
+		bufduplo4_insereLeitura(nivel);
 
 		// Calcula inicio do proximo periodo
 		t.tv_nsec += periodo;
@@ -264,7 +264,7 @@ void thread_grava_nivel_resp(void)
 	fclose(dados2_f);
 }
 
-void thread_grava_nivel_tempo_resp(void)
+void thread_grava_nivel_temp(void)
 {
 	FILE *dados3_f;
 	dados3_f = fopen("dados3.txt", "w");
@@ -276,14 +276,14 @@ void thread_grava_nivel_tempo_resp(void)
 	int amostras = 1;
 	while (amostras++ <= N_AMOSTRAS / 200)
 	{
-		long *buf = bufduplo_esperaBufferCheio();
-		long *buf2 = bufduplo2_esperaBufferCheio();
-		int n = tamBuf();
-		int n2 = tamBuf2();
+		double *buf3 = bufduplo3_esperaBufferCheio();
+		double *buf4 = bufduplo4_esperaBufferCheio();
+		int n = tamBuf3();
+		int n2 = tamBuf4();
 		int tam = 0;
 		while (tam < n2 && tam < n){
-			fprintf(dados3_f, "Temperatura: %4ld\n", buf[tam++]);
-			fprintf(dados3_f, "Nível da água: %4ld\n", buf2[tam++]);}
+			fprintf(dados3_f, "%4lf\n", buf3[tam++]);
+			fprintf(dados3_f, "%4lf\n", buf4[tam++]);}
 		fflush(dados3_f);
 		aloca_tela();
 		printf("Gravando no arquivo 3...\n");
@@ -308,7 +308,7 @@ int main(int argc, char *argv[])
 	pthread_create(&t5, NULL, (void *)thread_grava_temp_resp, NULL);
 	pthread_create(&t6, NULL, (void *)thread_controle_nivel, NULL);
 	pthread_create(&t7, NULL, (void *)thread_grava_nivel_resp, NULL);
-	pthread_create(&t8, NULL, (void *)thread_grava_nivel_tempo_resp, NULL);
+	pthread_create(&t8, NULL, (void *)thread_grava_nivel_temp, NULL);
 
 	pthread_join(t1, NULL);
 	pthread_join(t2, NULL);

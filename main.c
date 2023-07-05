@@ -194,7 +194,6 @@ void thread_controle_nivel(void)
 
 		if (ref_nivel < nivel)
 		{
-			n = (nivel - ref_nivel) * 200;
 			sprintf(msg_enviada, "ani%lf", 0.0);
 			msg_socket(msg_enviada);
 
@@ -207,14 +206,13 @@ void thread_controle_nivel(void)
 
 		if (ref_nivel > nivel)
 		{
-			n = (ref_nivel - nivel) * 200;
-			sprintf(msg_enviada, "ani%lf", 10.0);
+			sprintf(msg_enviada, "ani%lf", 20.0);
 			msg_socket(msg_enviada);
 
 			sprintf(msg_enviada, "anf%lf", 0.0);
 			msg_socket(msg_enviada);
 
-			sprintf(msg_enviada, "ana%lf", 30.0);
+			sprintf(msg_enviada, "ana%lf", 10.0);
 			msg_socket(msg_enviada);
 		}
 
